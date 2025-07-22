@@ -14,3 +14,4 @@ int main() {
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
 }// add code to check the git tool performance
+// New command added
